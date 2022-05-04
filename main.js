@@ -1,4 +1,4 @@
-var url = "http://localhost:8080/transactions";
+var url = "http://localhost:8080/api/transactions";
 
 async function getapi(url) {
     
